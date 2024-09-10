@@ -8,7 +8,7 @@ I am a passionate data analyst with expertise in SQL, Python, and data visualiza
 - 🌱 I’m currently learning: Advanced Python for data analysis
 - 👯 I’m looking to collaborate on: Data visualization and analysis projects
 - 💬 Ask me about: Data analysis, visualization, SQL queries
-- 📫 How to reach me: [your.email@example.com]
+- 📫 How to reach me: [sushilbhatkar19@gmail.com]
 - ⚡ Fun fact: I enjoy exploring new places and outdoor adventures
 
 ---
